@@ -1,0 +1,290 @@
+body {
+
+	background-image: url(Imagens/16250.jpg);
+
+
+}
+
+header {
+    background-image: url(Imagens/bqbqu.png);
+	border: 5px solid white;
+	border-top-left-radius: 40px;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	width: 1230px;
+	height: 150px; 
+}
+
+article {
+ 
+    background-image: url(Imagens/brick.jpg);
+	border: 5px solid white;
+	border-radius: 40px;
+	width: 1000px;
+	height: 850px;
+	position: relative;
+	top: 50px;
+}
+
+button {
+
+	background-color: yellow;
+	border: 2px solid black;
+	border-radius: 40px;
+	width: 14%;
+	box-shadow: 3px 2px black;
+}
+
+thead{
+
+	background-color: #5858FA;
+	border: 2px solid black;
+}
+
+tbody {
+
+	background-color: white;
+	border: 2px solid black;
+}
+
+table {
+
+border-collapse: collapse;
+border: 2px solid black;
+
+}
+
+tr td {
+
+	border: 2px solid black;
+}
+
+
+.page2 {
+
+ background-image: url(Imagens/brick.jpg);
+	border: 5px solid white;
+	border-radius: 40px;
+	width: 1200px;
+	height: 2890px;
+	position: relative;
+	top: 10px;
+	text-align: justify-all;
+	margin: 10px;
+
+}
+
+.page3 {
+	
+	 background-image: url(Imagens/brick.jpg);
+	border: 5px solid white;
+	border-radius: 40px;
+	width: 1200px;
+	height: 700px;
+	position: relative;
+	top: 10px;
+	text-align: justify-all;
+	
+	margin: 10px;
+
+}
+
+.page4 {
+
+	 background-image: url(Imagens/brick.jpg);
+	border: 5px solid white;
+	border-radius: 40px;
+	width: 900px;
+	height: 650px;
+	position: relative;
+	top: 10px;
+	text-align: justify-all;
+	
+	margin: 10px;
+}
+
+.members1 {
+
+	font-family: "Times New Roman"
+	font-size: 30px;
+	color: white;
+
+
+
+}
+
+.bit {
+
+	float: left;
+	position: relative;
+	left: 10px;
+}
+
+.fun {
+
+	float: left;
+	position: relative;
+	right: 140px;
+	top: 140px;
+}
+
+.steph {
+
+	float: right;
+	position: relative;
+	bottom: 210px;
+	right: 40px;
+
+}
+
+.c0mila {
+
+	float: right;
+	position: relative;
+	left: 110px;
+	bottom: 96px;
+
+}
+
+.ju {
+
+	float: center;
+
+
+}
+
+
+
+.imagensd {
+
+	width: 300px;
+	height: 300px;
+}
+
+.texto1
+
+{
+
+	position: relative;
+	right: 300px;
+}
+
+.texto2 {
+
+	position: relative;
+	right: 380px;
+	top: 130px;
+}
+
+.texto3 {
+
+	position: relative;
+	left: 190px;
+	bottom: 225px;
+
+}
+
+.bug {
+
+	position: relative;
+	left: 150px;
+	bottom: 7px;
+}
+
+.texto4 {
+
+	position: relative;
+	left: 410px;
+	bottom: 98px;
+
+}
+
+.texto5 {
+
+	position: relative;
+	bottom: 170px;
+	left: 90px;
+}
+
+
+
+h1 {
+
+	color: green;
+}
+
+h3 {
+
+	color: green;
+}
+
+
+
+
+.textobase {
+
+    padding: 15px;
+    display: block;
+	text-align: justify;
+	font-family: "Times New Roman";
+	font-size: 20px;
+	color: white
+
+}
+
+.titulo {
+
+	font-family: Arial Black;
+	color: green;
+
+
+}
+
+.subtitle {
+
+	font-family: Arial Black;
+	color: red;
+	text-indent: 50px;
+}
+
+
+#sobre {
+
+	float: left;
+}
+
+
+.menu {
+
+	
+    padding: 0px;
+	margin: 0px;
+	display: inline 5px;
+	border: 5px solid white;
+	border-radius: 50px;
+	width: 1230px;
+	height: 60px;
+	background: linear-gradient(blue, white);
+
+}
+
+.lista {
+
+
+	margin: 0px;
+	padding: 40px 42px;
+	display: inline;
+	font-size: 30px;
+	font-family: Arial Black;
+	color: white;
+	position: relative;
+	bottom: 5px;
+	text-decoration: none;
+
+}
+
+
+
+
+
+
